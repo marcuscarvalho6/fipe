@@ -1,0 +1,12 @@
+{
+    "name": "marcuscarvalho6/fipe",
+    "description": "Importacao de dados da tabela fipe",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcus Vinicius de Carvalho",
+            "email": "marcuscarvalho6@gmail.com"
+        }
+    ],
+    "require": {}
+}
